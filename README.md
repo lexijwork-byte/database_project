@@ -82,3 +82,4 @@ If, after activating your <code>venv</code> and installing dependencies, you see
   <br>
 This error most likely means you need to edit line 11 in <code>lib/database_connection.py</code>. Go there and change <code>"DEFAULT_MAKERS_PROJECT"</code> to the name of the database you created in step 6.
 </details>
+# database_project
